@@ -1,0 +1,7 @@
+-------------------------------------------------------------
+Weather Stats for - SOLAPUR  || 23 Jun 2021 | 03:29:35 PM
+-------------------------------------------------------------
+Current temperature is: 32.84 deg C
+Current weather desc  : overcast clouds
+Current Humidity      : 39 %
+Current wind speed    : 7.28 kmph
